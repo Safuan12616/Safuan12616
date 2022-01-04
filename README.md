@@ -5,7 +5,7 @@
 
 ### *:computer: I'm Safuan, a Student & a part time Programmer.*
  - :hammer_and_wrench: I build a lot of small and random things, many of which are Console Exploits, most of which are just for fun.
- - :school: Currently I am learning Responsive Web Design at [freeCodeCamp](freecodecamp.org).
+ - :school: Currently I am learning Python.
  - :video_game: I create contents for Video Games, most of them are Minecraft realeted, but there are other games too.
  - :e-mail: To get in touch, give me an email or a messege. (You can find these in my profile)
 
